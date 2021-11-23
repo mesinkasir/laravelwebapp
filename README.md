@@ -2,15 +2,15 @@
 
 A landing page website build with laravel the php artisan
 
-Demo : (https://toko.axcora.com)[https://toko.axcora.com]
+Demo : [https://toko.axcora.com](https://toko.axcora.com)
 
-How to install and documentation : (https://www.hockeycomputindo.com/2021/11/laravel-webapp-themes-template-free.html)[https://www.hockeycomputindo.com/2021/11/laravel-webapp-themes-template-free.html]
+How to install and documentation : [https://www.hockeycomputindo.com/2021/11/laravel-webapp-themes-template-free.html](https://www.hockeycomputindo.com/2021/11/laravel-webapp-themes-template-free.html)
 
 ![Laravel Web App template theme free download source code](https://1.bp.blogspot.com/-vP2VJbqNKv0/YZ0Wy2EEDJI/AAAAAAAASDI/quRlNLK6hFk2vxd3479x8Txv6H9dJV5sACLcBGAsYHQ/s1024/laravel%2Bweb%2Bapp%2Bthemes%2Bfree%2Bdownload%2Bsource%2Bcode.jpg)
 
-Demo : (https://toko.axcora.com)[https://toko.axcora.com]
+Demo : [https://toko.axcora.com](https://toko.axcora.com)
 
-How to install and documentation : (https://www.hockeycomputindo.com/2021/11/laravel-webapp-themes-template-free.html)[https://www.hockeycomputindo.com/2021/11/laravel-webapp-themes-template-free.html]
+How to install and documentation : [https://www.hockeycomputindo.com/2021/11/laravel-webapp-themes-template-free.html](https://www.hockeycomputindo.com/2021/11/laravel-webapp-themes-template-free.html)
 
 -------------------------------------------
 
@@ -33,8 +33,8 @@ Sidebar menu
 
 -------------------------------------------
 
-Demo : (https://toko.axcora.com)[https://toko.axcora.com]
+Demo : [https://toko.axcora.com](https://toko.axcora.com)
 
-How to install and documentation : (https://www.hockeycomputindo.com/2021/11/laravel-webapp-themes-template-free.html)[https://www.hockeycomputindo.com/2021/11/laravel-webapp-themes-template-free.html]
+How to install and documentation : [https://www.hockeycomputindo.com/2021/11/laravel-webapp-themes-template-free.html](https://www.hockeycomputindo.com/2021/11/laravel-webapp-themes-template-free.html)
 
 -------------------------------------------
