@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+# Laravel Web App template theme free download source code
 
-You can use the [editor on GitHub](https://github.com/mesinkasir/laravelwebapp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+A landing page website build with laravel the php artisan
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Demo : [https://toko.axcora.com](https://toko.axcora.com)
 
-### Markdown
+How to install and documentation : [https://www.hockeycomputindo.com/2021/11/laravel-webapp-themes-template-free.html](https://www.hockeycomputindo.com/2021/11/laravel-webapp-themes-template-free.html)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Laravel Web App template theme free download source code](https://1.bp.blogspot.com/-vP2VJbqNKv0/YZ0Wy2EEDJI/AAAAAAAASDI/quRlNLK6hFk2vxd3479x8Txv6H9dJV5sACLcBGAsYHQ/s1024/laravel%2Bweb%2Bapp%2Bthemes%2Bfree%2Bdownload%2Bsource%2Bcode.jpg)
 
-```markdown
-Syntax highlighted code block
+Demo : [https://toko.axcora.com](https://toko.axcora.com)
 
-# Header 1
-## Header 2
-### Header 3
+How to install and documentation : [https://www.hockeycomputindo.com/2021/11/laravel-webapp-themes-template-free.html](https://www.hockeycomputindo.com/2021/11/laravel-webapp-themes-template-free.html)
 
-- Bulleted
-- List
+-------------------------------------------
 
-1. Numbered
-2. List
+Home Page
 
-**Bold** and _Italic_ and `Code` text
+![ Laravel Web App template theme free download source code](https://1.bp.blogspot.com/-Mi7UmE-Zt_s/YZ0R8fhQmCI/AAAAAAAASC0/4DATWokuR_ouRrrfpva9o6-e23K-u4b1QCLcBGAsYHQ/s2701/laravel%2Bweb%2Bapp%2Bsource%2Bcode%2Bfree%2Bdownload%2Bgratis%2B%25281%2529.jpeg)
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+About Page
 
-### Jekyll Themes
+![ Laravel Web App template theme free download source code](https://1.bp.blogspot.com/-IijUOJKSo0U/YZ0R8rVEoAI/AAAAAAAASCw/mrkNZ8SX0pUthvoDLuO1Hhr0aYGOjH5pgCLcBGAsYHQ/s1475/laravel%2Bweb%2Bapp%2Bsource%2Bcode%2Bfree%2Bdownload%2Bgratis%2B%25283%2529.jpeg)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mesinkasir/laravelwebapp/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Product Page
 
-### Support or Contact
+![ Laravel Web App template theme free download source code](https://1.bp.blogspot.com/-W7f268xaKFE/YZ0R9g0V4CI/AAAAAAAASC4/CCEIw3kQvvgR6coXRO8_DvhLRiXfpJu1QCLcBGAsYHQ/s1883/laravel%2Bweb%2Bapp%2Bsource%2Bcode%2Bfree%2Bdownload%2Bgratis%2B%25284%2529.jpeg)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Sidebar menu
+
+![ Laravel Web App template theme free download source code](https://1.bp.blogspot.com/-YOGZeCdc01E/YZ0R8Vy0NfI/AAAAAAAASCs/8x-BOW_rXWsOmKfDbEsjGg4x3hdGDg22ACLcBGAsYHQ/s1232/laravel%2Bweb%2Bapp%2Bsource%2Bcode%2Bfree%2Bdownload%2Bgratis%2B%25282%2529.jpeg)
+
+-------------------------------------------
+
+Demo : [https://toko.axcora.com](https://toko.axcora.com)
+
+How to install and documentation : [https://www.hockeycomputindo.com/2021/11/laravel-webapp-themes-template-free.html](https://www.hockeycomputindo.com/2021/11/laravel-webapp-themes-template-free.html)
+
+-------------------------------------------
+
+### Buy me a coffee ☕️ ❤️  ✌🏻 
+
+with moneygram or western union
+
++ BANK CENTRAL ASIA
++ ACCOUNT NO : 0181884109
++ ACCOUNT NAME : SUCI CHANIFAH
++ IBAN/SWIFT CODE : CENAIDJA
